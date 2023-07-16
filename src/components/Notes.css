@@ -1,0 +1,20 @@
+
+
+.noteBox {
+    width: 70%;
+    
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: rgb(155, 191, 224);
+    border-radius: 8px;
+    box-shadow: 5px 5px 5px #aaaaaa;
+}
+
+.mainNoteContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10%;
+}

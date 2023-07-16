@@ -1,0 +1,15 @@
+.noteAddContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    width: 72%;
+    padding: 20px 0 40px 0;
+    border: 1px solid 'red';
+}
+
+.noteAddInput {
+    padding: 10px;
+    width: 80%;
+    border-radius: 8px;
+}
